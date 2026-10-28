@@ -4,7 +4,7 @@
 A clean, lightweight, and high-performance personal portfolio website built from scratch as a Junior Frontend Developer & Web Designer.
 
 ## 🚀 Live Demo
-👉 [View Live Website](https://krabikokos.github.io/rtg-portfolios/)
+👉 [View Live Website](https://rtg-frontend.github.io/rtg-portfolios/)
 
 ## 🛠️ Tech Stack & Features
 - **Core:** Pure HTML5, CSS3, JavaScript (ES6+)
